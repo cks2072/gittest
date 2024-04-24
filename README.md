@@ -3,8 +3,8 @@
 지역 저장소 (로컬) <> 원격저장소 (github)
 1. 작업폴더 선택
 2. git init
-3. git config user. name '유저이름'
-4. git config user. email '이메일주소'
+3. git config user.name '유저이름'
+4. git config user.email '이메일주소'
 5. branch -M main
 6. git remote add '원격저장소주소'
 
